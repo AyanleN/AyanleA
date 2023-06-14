@@ -8,4 +8,4 @@
 
 *Day 4 (6/12)* I worked on finding the data i need for my project, and using chatgpt made it easier to find a database of genetic variation. 
 
-*Day 5 (6/13)* I worked on find what part of the database i need for my project, had difficulty understanding what each section serve. 
+*Day 5 (6/13)* I worked on finding what part of the database i need for my project, had difficulty understanding what each section served. 
