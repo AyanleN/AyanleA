@@ -15,3 +15,5 @@
 *Day 7 (6/15)* During the meeting, I received feedback on my project, which provided valuable insights on how to improve it. I carefully analyzed the data using Python and ChatGPT, and although it took a couple of minutes to compute, I was able to derive meaningful results. Additionally, I developed a blood type finder by combining individual data with external data sources to estimate a person's blood type accurately.
 
 *Day 8* (6/16) I attended an orientation for the majority of the day. Once it concluded, I embarked on conducting research for my project. I discovered relevant data on https://www.internationalgenome.org and proceeded to analyze how I could effectively utilize this information.
+
+*Day 9* (6/17) I have read a couple of papers and experimented with data using ChatGPT to create a map. It was successful for some data, but I encountered challenges when attempting to incorporate all of the data into a single place. Additionally, I have been exploring and experimenting with Jupyter Notebook for my projects
