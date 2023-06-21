@@ -94,6 +94,10 @@ nav:
   - KEYS 2023 Main Project: 
     - My project: myproject.md
     - Awesome Community Datasets: communityDataset.md
+  - ChatGPT: chatgpt.md
+    - Prompting: prompting.md
+    - Google Bard: google.md
+    - Co pilot: copilot.md
   - Results:
     - Community Dataset Standardization Log: standardizationLog.md
     - Poster: poster.md
