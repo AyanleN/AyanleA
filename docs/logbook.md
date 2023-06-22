@@ -16,4 +16,6 @@
 
 *Day 8* (6/16) I attended an orientation for the majority of the day. Once it concluded, I embarked on conducting research for my project. I discovered relevant data on https://www.internationalgenome.org and proceeded to analyze how I could effectively utilize this information.
 
-*Day 9* (6/17) I have read a couple of papers and experimented with data using ChatGPT to create a map. It was successful for some data, but I encountered challenges when attempting to incorporate all of the data into a single place. Additionally, I have been exploring and experimenting with Jupyter Notebook for my projects
+*Day 9* (6/20) I have read a couple of papers and experimented with data using ChatGPT to create a map. It was successful for some data, but I encountered challenges when attempting to incorporate all of the data into a single place. Additionally, I have been exploring and experimenting with Jupyter Notebook for my projects
+
+*Day 10* (6/21) I spent a considerable amount of time resolving an issue I encountered on GitHub. After working through it, I successfully fixed the problem and updated my website accordingly. As part of the update, I added a section to introduce the AI, ChatGPT, that I will be utilizing for my project. Additionally, I experimented with the data I had and encountered some challenges in determining the optimal way to leverage it effectively.
