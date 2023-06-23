@@ -1,1 +1,7 @@
+*Prompting
 
+
+*Google Bard
+
+
+*Copilot
