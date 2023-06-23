@@ -95,9 +95,7 @@ nav:
     - My project: myproject.md
     - Awesome Community Datasets: communityDataset.md
   - ChatGPT: 
-    - Prompting: prompts.md
-    - Google Bard: google.md
-    - Co pilot: copilot.md
+    - ChatGPT: chat.md
   - Results:
     - Community Dataset Standardization Log: standardizationLog.md
     - Poster: poster.md
