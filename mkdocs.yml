@@ -97,5 +97,6 @@ nav:
     - ChatGPT: Chatgpt.md
   - Results:
     - Map Plot: Leone.md
+    - Map Location: longmap.html
     - Poster: poster.md
   - References: references.md
