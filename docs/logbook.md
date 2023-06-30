@@ -29,3 +29,5 @@
 *Day 14* (6/27) I have learned how to remove the VCF seal from a file and make the data readable. However, I am facing an issue with my computer's performance as it struggles to handle the entire file. Consequently, it takes about a minute or so for the file to open. Additionally, I recently learned the importance of not prematurely terminating a Jupyter lab session. Unfortunately, I made that mistake and ended up losing the downloaded data, which forced me to redownload everything.
 
 *Day 15* (6/27) I worked on decompressing all of the files, but unfortunately most didn't decompress successfully which led me to not go through the pain of decompressing all, but usinhg cyvcf instead to read the files for me and decompress it. I went on to copy all of the files into my de.cyverse account and now plan to work on the results of the data.
+
+*Dau 16* (6/28)  I worked on making the graphs, data is too large for Jupyter lab to generate. My code has had couple checks and it has been working but since the genetic file is too large it never generates the graph needed but loads forever, i plan to use only small part of the data. 
