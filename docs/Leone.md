@@ -3,7 +3,7 @@ Result
 
 ![graph](https://github.com/AyanleN/KEYS2023/assets/111706166/6b4a1a3d-554e-4a3a-a1dd-6dc28435c62e)
 
-```import cyvcf2
+{ import cyvcf2
 import matplotlib.pyplot as plt
 
 # Read the vcf.gz file and create a VCF object
@@ -23,5 +23,5 @@ plt.scatter(positions, frequencies)
 plt.xlabel("Variant Positions")
 plt.ylabel("Frequencies")
 plt.title("Variant Positions vs Frequencies (First 100 Samples)")
-plt.show() ```
+plt.show() }
 
