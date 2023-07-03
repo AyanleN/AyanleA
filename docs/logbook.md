@@ -30,4 +30,6 @@
 
 *Day 15* (6/27) I worked on decompressing all of the files, but unfortunately most didn't decompress successfully which led me to not go through the pain of decompressing all, but usinhg cyvcf instead to read the files for me and decompress it. I went on to copy all of the files into my de.cyverse account and now plan to work on the results of the data.
 
-*Dau 16* (6/28)  I worked on making the graphs, data is too large for Jupyter lab to generate. My code has had couple checks and it has been working but since the genetic file is too large it never generates the graph needed but loads forever, i plan to use only small part of the data. 
+*Day 16* (6/28)  I worked on making the graphs, data is too large for Jupyter lab to generate. My code has had couple checks and it has been working but since the genetic file is too large it never generates the graph needed but loads forever, i plan to use only small part of the data. 
+
+*Day 17* (6/29) I finally got results, and plan to upadte all of my finding to the website this week and making my poster. 
