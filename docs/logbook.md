@@ -33,3 +33,7 @@
 *Day 16* (6/28)  I worked on making the graphs, data is too large for Jupyter lab to generate. My code has had couple checks and it has been working but since the genetic file is too large it never generates the graph needed but loads forever, i plan to use only small part of the data. 
 
 *Day 17* (6/29) I finally got results, and plan to upadte all of my finding to the website this week and making my poster. 
+
+*Day 18* (7/3) Working on poster.
+
+*Day 19* (7/5) Working on poster, and other keys assignment, will continue later to update the website. 
