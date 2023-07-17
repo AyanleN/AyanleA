@@ -98,5 +98,6 @@ nav:
   - Results:
     - Map Plot: Leone.md
     - Map Location: mappydata.html
+    - Data: interactive_plot-3.html
     - Poster: poster.md
   - References: references.md
