@@ -34,6 +34,14 @@
 
 *Day 17* (6/29) I finally got results, and plan to upadte all of my finding to the website this week and making my poster. 
 
-*Day 18* (7/3) Working on poster.
+*Day 18* (7/3) Working on poster, and KEYS assignment!
 
-*Day 19* (7/5) Working on poster, and other keys assignment, will continue later to update the website. 
+*Day 19-22* (7/4-7) Previous result wasn't what i was looking for, there was lack of data that can be interrupted, so I worked to generate a data that people can interactive with and data that includes all samples rather than 100 or less.
+
+*Day 23-26 (7/10-13): Worked to fix the issue i had with the data and worked on KEYS assignment and updated my finding on my poster!
+
+*Day 27* (7-14): Got the geographic map, and finished Working on my poster!
+
+
+
+
