@@ -1,4 +1,4 @@
-#Result
+# Result
 
 Figure 1: Exploration of Genetic Diversity using Second and Third Principal Components
 
