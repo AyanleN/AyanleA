@@ -96,9 +96,9 @@ nav:
   - ChatGPT: 
     - ChatGPT: Chatgpt.md
   - Results:
-    - Map Plot: Leone.md
+    - Result: Leone.md
     - Map Location: mappydata.html
-    - Data: interactive_plot-3.html
-    - Geo: interactive_plotS2.html
+    - Fig1: interactive_plotS2.html
+    - Fig2: interactive_plot-3.html
     - Poster: poster.md
   - References: references.md
